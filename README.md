@@ -1,5 +1,9 @@
 # Simulasi Komunikasi Ciphertext dengan DES
 
+| Nama                           | NRP        | Kelas     |
+| ------------------------------ | ---------- |---------- |
+| Dyah Utami Kesuma Dewi         | 5025241186 | KI-B      |
+
 ## 1. Deskripsi
 
 Program ini dibuat untuk mensimulasikan komunikasi dua arah antara **sender** dan **receiver** dengan menggunakan algoritma **Data Encryption Standard (DES)**.
